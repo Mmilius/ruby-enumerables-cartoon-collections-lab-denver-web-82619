@@ -7,8 +7,7 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(calls)
-  array.select{ 
-  array.reject
+  cals.any? do |word| word.length > 4
 end
 
 def find_the_cheese# code an argument here
